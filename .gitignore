@@ -1,0 +1,43 @@
+# Maven target directory
+/target/
+
+# IDE specific files
+/.idea/
+/*.iml
+/.classpath
+/.project
+/.settings/
+/.vscode/
+
+# Logs
+/logs
+*.log
+
+# Compiled class files
+*.class
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+.DS_Store
+
+# Environment variable files
+.env
+*.env
+
+# Maven wrapper files
+.mvn/
+mvnw
+mvnw.cmd
+
+# Java dependencies
+/.mvn/
+dependency-reduced-pom.xml
+
+# Built application files
+*.jar
+*.war
+*.zip
+*.tar.gz
